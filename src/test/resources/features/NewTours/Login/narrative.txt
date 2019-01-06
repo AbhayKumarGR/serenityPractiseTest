@@ -1,0 +1,4 @@
+Login to NewTours page
+In order to book a flight or hotel
+As a customer
+I want to be able to login to NewTours using my own profile

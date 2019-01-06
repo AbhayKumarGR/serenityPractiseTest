@@ -1,0 +1,5 @@
+Register to NewTours
+As a new customer
+I want to be able to
+Register myself to
+create my profile on NewTours page
